@@ -3,10 +3,10 @@
 <img src="https://cdn.datacamp.com/main-app/assets/brand/logos/DataCamp_Horizontal_RGB-d196011f63ebda76dc5c9772425cf9541b8639af842d5e5476ef10f2460ed1e4.png" width="500">
 </p>
 
-[**DataCamp**](https://www.datacamp.com) is an online learning platfrom with interactive courses, practices, and projects. This is a repository for my solutions to DataCamp projects.
+[**DataCamp**](https://www.datacamp.com) is an online learning platfrom with interactive courses, practices, and projects. The projects require fluent programming skills, including Python or R, to complete data analysis. This is a repository for my solutions to DataCamp projects.
 
 
-## Python project ##
+## Python Projects ##
 |Project Name|Description |
 |:------|:-----|
 |`A Visual History of Nobel Prize Winners`|Explore a dataset from Kaggle containing a century's worth of Nobel Laureates. Who won? Who got snubbed?|
@@ -17,7 +17,7 @@
 |`The GitHub History of the Scala Language`|Find the true Scala experts by exploring its development history in Git and GitHub.|
 
 
-## R project 
+## R Projects
 |Project Name|Description |
 |:------|:-----|
 |`Predict Taxi Fares with Random Forests`|Use regression trees and random forests to find places where New York taxi drivers earn the most.|
