@@ -23,3 +23,9 @@
 |`Predict Taxi Fares with Random Forests`|Use regression trees and random forests to find places where New York taxi drivers earn the most.|
 |`Reducing Traffic Mortality in the USA`|How can we find a good strategy for reducing traffic-related deaths?|
 
+
+## SQL Projects
+| Project | Description |
+| --- | --- |
+| `Analyze International Debt Statistics` | Write SQL queries to answer interesting questions about international debt using data from The World Bank. |
+| `What and Where Are the World's Oldest Businesses?` | Use SQL data manipulation and joins to discover the oldest businesses around the world. |
